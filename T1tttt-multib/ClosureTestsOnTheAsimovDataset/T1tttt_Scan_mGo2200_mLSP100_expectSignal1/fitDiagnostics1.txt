@@ -1,0 +1,13 @@
+ <<< Combine >>> 
+>>> method used is FitDiagnostics
+>>> random number generator seed is 123456
+>>> 0 out of 528 channels masked
+
+SimNLL created with 0 channels, 0 generic constraints, 318 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 528 channels, 0 generic constraints, 318 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [beta_LT4i_HT03i_NB3i_NJ68_NT2i_CR_2016] at boundary. 
+  [WARNING] Found [beta_LT4i_HT03i_NB3i_NJ68_NT2i_CR_2018] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.999737  -0.460011/+0.604808  (68% CL)
+Done in 11.34 min (cpu), 11.36 min (real)
